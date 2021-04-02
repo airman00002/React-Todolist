@@ -5,5 +5,5 @@
 
 #### > git clone https://github.com/airman00002/React-Todolist.git
 #### > cd React-Todolist
-#### > npm install
-#### > npm start
+#### > npm install or yarn install
+#### > npm start or yarn start
