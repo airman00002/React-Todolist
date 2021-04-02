@@ -1,7 +1,7 @@
 
 # React-Todolist
 
-#### Example
+#### ตัวอย่าง
 https://boring-nobel-25e6ac.netlify.app
 ## ขั้นตอนการติดตั้ง
 
