@@ -3,7 +3,7 @@
 
 ## ขั้นตอนการติดตั้ง
 
-> git clone
-> cd React-Todolist
-> npm install
-> npmstart
+### > git clone
+### > cd React-Todolist
+### > npm install
+### > npmstart
